@@ -1,0 +1,15 @@
+{
+  "name": "playwright-test-automation",
+  "version": "1.0.0",
+  "description": "A test automation project using Playwright to validate web application functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "playwright": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
